@@ -5,3 +5,4 @@ All material created and used in the on-campus course on Neural Networks and Fuz
 2. [Assignment 2](https://github.com/ighosh98/NNFL/tree/master/NNFL_Assignment_2)
 ## Term Project
 - [Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts](https://github.com/ighosh98/NNFL/tree/master/project)
+- [Firefly Algorithm](https://github.com/ighosh98/NNFL/tree/master/project)
