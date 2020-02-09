@@ -6,3 +6,4 @@ All material created and used in the on-campus course on Neural Networks and Fuz
 ## Term Project
 - [Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts](https://github.com/ighosh98/NNFL/tree/master/project)
 - [Firefly Algorithm](https://github.com/ighosh98/NNFL/tree/master/project)
+- [Fuzzy Reliability Improvement Index Calculation](https://github.com/ighosh98/NNFL/tree/master/fuzzy_reliability)
