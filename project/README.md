@@ -23,40 +23,40 @@
 This repository implements modified _particle swarm optimization_ that was introduced by Yuhui Shi and Russell C. Eberhart in their paper [A modified particle swarm optimizer](https://ieeexplore.ieee.org/document/699146) in 1998. Their approach introduces a so called _inertia weight_ w. [Original Particle Swarm Optimization.](https://ieeexplore.ieee.org/document/488968)
 
 * **Ackley**</br>
-![PSO](project/assets/PSO2D_ackley.gif)</br>
+![PSO](assets/PSO2D_ackley.gif)</br>
 * **Rastrigin**</br>
-![PSO](project/assets/PSO2D_rastrigin.gif)</br>
+![PSO](assets/PSO2D_rastrigin.gif)</br>
 * **Yang**</br>
-![PSO](project/assets/PSO2D_yang.gif)</br>
+![PSO](assets/PSO2D_yang.gif)</br>
 * **DeJong**</br>
-![PSO](project/assets/PSO2Ds_dejong.gif)</br>
+![PSO](assets/PSO2Ds_dejong.gif)</br>
 * **Griewank**</br>
-![PSO](project/assets/PSO2Ds_griewank.gif)</br>
+![PSO](assets/PSO2Ds_griewank.gif)</br>
 * **Shubert Function**</br>
-![PSO](project/assets/PSO2Ds_shubert.gif)</br>
+![PSO](assets/PSO2Ds_shubert.gif)</br>
 
 ## Firefly-Algorithm
 
 This repository includes the _firefly algorithm_ like Xin-She Yang introduced in his paper [Firefly Algorithms for Multimodal Optimization](https://link.springer.com/chapter/10.1007%2F978-3-642-04944-6_14) in 2009.  
 
 * **Ackley**</br>
-![Firefly](project/assets/firefly_ackley.gif)</br>
+![Firefly](assets/firefly_ackley.gif)</br>
 * **deJong**</br>
-![Firefly](project/assets/firefly_dejong.gif)</br>
+![Firefly](assets/firefly_dejong.gif)</br>
 * **michalewicz**</br>
-![Firefly](project/assets/firefly_michalewicz.gif)</br>
+![Firefly](assets/firefly_michalewicz.gif)</br>
 * **rastrigin**</br>
-![Firefly](project/assets/firefly_rastrigin.gif)</br>
+![Firefly](assets/firefly_rastrigin.gif)</br>
 * **griewank**</br>
-![Firefly](project/assets/firefly_griewank.gif)</br>
+![Firefly](assets/firefly_griewank.gif)</br>
 * **rosenbrock**</br>
-![Firefly](project/assets/firefly_rosenbrock.gif)</br>
+![Firefly](assets/firefly_rosenbrock.gif)</br>
 * **schwefel**</br>
-![Firefly](project/assets/firefly_schwefel.gif)</br>
+![Firefly](assets/firefly_schwefel.gif)</br>
 * **shubert**</br>
-![Firefly](project/assets/firefly_shubert.gif)</br>
+![Firefly](assets/firefly_shubert.gif)</br>
 * **easom**</br>
-![Firefly](project/assets/firefly_easom.gif)</br>
+![Firefly](assets/firefly_easom.gif)</br>
 
 ## References
 
